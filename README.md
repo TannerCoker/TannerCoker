@@ -4,7 +4,7 @@ or devlopment post-graduation. I enjoy programming when I have time and I enjoy 
 encountering on an assignment. I learn best with hands-on experience and try to come up with projects to do that will help me learn a new skill. 
 
 ## Skills
-- I work well in teams and have experience with Agile programming when I was working in a small group during my software engineering course in a past semesters. 
+- I work well in teams and have experience with Agile programming when I was working in a small group during my software engineering course in a past semester. 
 - I have experience in Java, C, C++, and Python. I have the most experience with Java but am actively trying to gain more experience with Python.
 
 ## Currently learning
