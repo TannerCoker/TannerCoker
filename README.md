@@ -7,9 +7,6 @@ encountering on an assignment. I learn best with hands-on experience and try to 
 - I work well in teams and have experience with Agile programming when I was working in a small group during my software engineering course in a past semester. 
 - I have experience in Java, C, C++, and Python. I have the most experience with Java but am actively trying to gain more experience with Python.
 
-## Currently learning
-Currently I am trying to familiarize myself with the use of APIs and creating desktop applications with Python. 
-
 ## Contact
 I can be reached via email at tbcoker13@gmail.com
 
