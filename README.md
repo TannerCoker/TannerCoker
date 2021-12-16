@@ -5,10 +5,8 @@ encountering on an assignment. I learn best with hands-on experience and try to 
 
 ## Skills
 - I work well in teams and have experience with Agile programming when I was working in a small group during my software engineering course in a past semester. 
-- I have experience in Java, C, C++, and Python. I have the most experience with Java but am actively trying to gain more experience with Python.
+- I have experience in Java, C/C++, and Python.
 
-## Contact
-I can be reached via email at tbcoker13@gmail.com
 
 <!---
 TannerCoker/TannerCoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
